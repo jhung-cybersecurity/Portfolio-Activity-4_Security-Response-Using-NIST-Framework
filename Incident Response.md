@@ -1,4 +1,4 @@
-# Protfolio Activity #4 - Using the NIST Cybersecurity Framework to respond to a security incident  
+# Portfolio Activity #4 - Using the NIST Cybersecurity Framework to respond to a security incident  
 
 
 ## Incident Report Analysis  
